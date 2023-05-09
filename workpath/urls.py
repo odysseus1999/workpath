@@ -1,13 +1,12 @@
 #Import Dependencies
 from django.contrib import admin
 from django.contrib.auth import views as auth_views
-from django.urls import path
-from django.urls import re_path,include
+from django.urls import path,include
+from django.urls import re_path as url
 from users import views as user_views
 from django.conf.urls.static import static
 from users import views as user_views
 from django.conf import settings
-
 #URL Patterns
 urlpatterns = [
 	#/admin/
