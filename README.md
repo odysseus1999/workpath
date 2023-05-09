@@ -22,9 +22,9 @@ My goal is to build a comprehensive programming platform that fosters interactio
 ------------------------------------------
 
 #### This project still has scope of development, so you can also contribute to this Project as follows:
-* [Fork](https://github.com/darshanc99/HackedIn) this Repository.
+* [Fork]((https://github.com/odysseus1999/workpath.git)) this Repository.
 * Clone your Fork on a different branch:
-	* `git clone -b <name-of-branch> https://github.com/darshanc99/HackedIn.git`
+	* `git clone -b <name-of-branch>(https://github.com/odysseus1999/workpath.git)`
 * After adding any feature:
 	* Goto your fork and create a pull request.
 	* We will test your modifications and merge changes.
