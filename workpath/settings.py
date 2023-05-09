@@ -45,7 +45,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'HackedIn.urls'
+ROOT_URLCONF = 'workpath.urls'
 
 TEMPLATES = [
     {
@@ -63,7 +63,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'HackedIn.wsgi.application'
+WSGI_APPLICATION = 'workpath.wsgi.application'
 
 
 # Database
