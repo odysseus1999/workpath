@@ -1,15 +1,10 @@
 <div align="center">	
-	<h1>HackedIn :computer:</h1>
-
-[![HitCount](http://hits.dwyl.io/darshanc99/HackedIn.svg)](http://hits.dwyl.io/darshanc99/HackedIn)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![made-with-django](https://img.shields.io/badge/Made%20with-Django-1f425f.svg)](https://www.djangoproject.com/)
-
+	<h1>Workpath :computer:</h1>
 </div>
 
-# HackedIn
+# Workpath
 ## Motivation: 
-To create a one stop platform for programmers where they can interact, stay updated and make the programmer community grow together.
+My goal is to build a comprehensive programming platform that fosters interaction, provides real-time updates, and enables the growth of the programming community as a whole.
 #### Features:
 * Keeps you updated with real time fetching of the latest tech news.
 * Helps you find employees/project collaborators/interns for your projects.
@@ -34,37 +29,7 @@ To create a one stop platform for programmers where they can interact, stay upda
 	* Goto your fork and create a pull request.
 	* We will test your modifications and merge changes.
 	
-------------------------------------------
 
-
-<div align="center">
-
-<h3 > HackedIn as web-app  </h3>
-<br>
-<img src="images/homepage.jpeg" width=700px>
-
-<br>
-
-<img src="images/profile.jpeg" width=700px>
-
-<br>
-
-<img src="images/forums.jpeg" width=700px>
-
-<br>
-
-<img src="images/community.jpeg" width=700px>
-
-<br>
-
-<br>
-<img src="images/news.jpeg" width=700px>
-
-<br>
-
-</div>
-
-------------------------------------------
 ## Techstack used:
 - Frontend: HTML,CSS,JS, Bootstrap4
 - Backend: Python
@@ -80,8 +45,8 @@ To create a one stop platform for programmers where they can interact, stay upda
 
 ##### To access the Admin Panel:
 * Open the browser and go the address: `localhost:8000/admin`
-	* **username** : hackedin
-	* **password** : 123456
+	* **username** : superman
+	* **password** : Asdfghjk@1106
 
 ------------------------------------------
 
@@ -103,8 +68,8 @@ To create a one stop platform for programmers where they can interact, stay upda
 ------------------------------------------
 
 ### Note:
-- This project was created for our `Web Technology Lab`
+- This project was created for My `Showcase`
 
 ------------------------------------------
 
-##### Made with :heart: by [@darshanc99](https://github.com/darshanc99) and [@rohiiit](https://github.com/rohiiit)
+
